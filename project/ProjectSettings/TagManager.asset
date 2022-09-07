@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map System
+  - Debris
+  - Left Sword
+  - Right Sword
+  - Blocks
+  - Point System
+  - Block Miss Collider
+  - Game System
+  - Stats System
+  - Settings System
+  - headerSettingsProperty
+  - boolSettingsProperty
+  - floatSettingsProperty
+  - Audio System
+  - SFX System
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ghost
+  - Water
+  - UI
+  - Environment
+  - Sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

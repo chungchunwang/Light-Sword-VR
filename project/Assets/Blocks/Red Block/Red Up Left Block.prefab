@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4262115607196893217
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 141932906081038982, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: crossSectionMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 683743b8cd5c59e409a8b5af9b13c4c2, type: 2}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2325383173757343978, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -135
+      objectReference: {fileID: 0}
+    - target: {fileID: 3860798931057799906, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_Name
+      value: Red Up Left Block
+      objectReference: {fileID: 0}
+    - target: {fileID: 7826450680573031808, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 683743b8cd5c59e409a8b5af9b13c4c2, type: 2}
+    - target: {fileID: 8869492823873106089, guid: 1658d663f44fb244aa186d7ac0774bb4,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 118
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1658d663f44fb244aa186d7ac0774bb4, type: 3}
